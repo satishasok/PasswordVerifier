@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PasswordVerifier">
+</Property><Property Name="Solution File" Value="C:\Users\sasok\Personal\Satish\career\Okta_ProgrammingTest\PasswordVerifier\PasswordVerifier\PasswordVerifier.sln">
+</Property><Property Name="User Options File" Value="C:\Users\sasok\Personal\Satish\career\Okta_ProgrammingTest\PasswordVerifier\PasswordVerifier\PasswordVerifier.suo">
+</Property><Property Name="Date" Value="Friday, February 15, 2013">
+</Property><Property Name="Time" Value="18:02 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PasswordVerifier.sln" Description="File successfully backed up as C:\Users\sasok\Personal\Satish\career\Okta_ProgrammingTest\PasswordVerifier\PasswordVerifier\Backup\PasswordVerifier.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PasswordVerifier.suo" Description="File successfully backed up as C:\Users\sasok\Personal\Satish\career\Okta_ProgrammingTest\PasswordVerifier\PasswordVerifier\Backup\PasswordVerifier.suo">
+</Event><Event ErrorLevel="0" Project="PasswordVerifier" Source="PasswordVerifier.csproj" Description="Project file successfully backed up as C:\Users\sasok\Personal\Satish\career\Okta_ProgrammingTest\PasswordVerifier\PasswordVerifier\Backup\PasswordVerifier.csproj">
+</Event><Event ErrorLevel="0" Project="PasswordVerifier" Source="PasswordVerifier.csproj.user" Description="Project user file successfully backed up as C:\Users\sasok\Personal\Satish\career\Okta_ProgrammingTest\PasswordVerifier\PasswordVerifier\Backup\PasswordVerifier.csproj.user">
+</Event><Event ErrorLevel="0" Project="PasswordVerifier" Source="PasswordVerifier.cs" Description="File successfully backed up as C:\Users\sasok\Personal\Satish\career\Okta_ProgrammingTest\PasswordVerifier\PasswordVerifier\Backup\PasswordVerifier.cs">
+</Event><Event ErrorLevel="0" Project="PasswordVerifier" Source="PasswordVerifierErrors.cs" Description="File successfully backed up as C:\Users\sasok\Personal\Satish\career\Okta_ProgrammingTest\PasswordVerifier\PasswordVerifier\Backup\PasswordVerifierErrors.cs">
+</Event><Event ErrorLevel="0" Project="PasswordVerifier" Source="Program.cs" Description="File successfully backed up as C:\Users\sasok\Personal\Satish\career\Okta_ProgrammingTest\PasswordVerifier\PasswordVerifier\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="PasswordVerifier" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\sasok\Personal\Satish\career\Okta_ProgrammingTest\PasswordVerifier\PasswordVerifier\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PasswordVerifier" Source="app.config" Description="File successfully backed up as C:\Users\sasok\Personal\Satish\career\Okta_ProgrammingTest\PasswordVerifier\PasswordVerifier\Backup\app.config">
+</Event><Event ErrorLevel="1" Project="PasswordVerifier" Source="PasswordVerifier.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="PasswordVerifier" Source="PasswordVerifier.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PasswordVerifier" Source="PasswordVerifier.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PasswordVerifier.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PasswordVerifier.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PasswordVerifier" Source="app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="PasswordVerifier" Source="app.config" Description="Converted">
+</Event></UpgradeLog>
